@@ -8,6 +8,7 @@
 * Saques (limitados a 3 por conta)
 * Exibição de saldo
 * Histórico individual de operações
+  
 #### O sistema utiliza apenas estruturas básicas da linguagem (listas e dicionários), facilitando o aprendizado dos fundamentos da programação orientada a dados.
 ## 🚀 Funcionalidades
 ### 👤 Cadastro de Usuário
